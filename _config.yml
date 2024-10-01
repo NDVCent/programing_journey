@@ -1,3 +1,5 @@
 title: NDV Blog
 description: Blog to see me progress in programing life
 theme: jekyll-theme-minimal
+markdown: kramdown
+<link rel="stylesheet" href="/assets/css/styles.css">
